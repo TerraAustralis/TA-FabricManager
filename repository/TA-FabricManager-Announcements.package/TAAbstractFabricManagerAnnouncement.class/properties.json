@@ -1,0 +1,14 @@
+{
+	"category" : "TA-FabricManager-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAAbstractFabricManagerAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "TAAbstractFabricAnnouncement",
+	"type" : "normal" }

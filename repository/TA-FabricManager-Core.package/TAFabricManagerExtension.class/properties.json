@@ -1,0 +1,14 @@
+{
+	"category" : "TA-FabricManager-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAFabricManagerExtension",
+	"pools" : [
+		 ],
+	"super" : "TASeasideExtension",
+	"type" : "normal" }

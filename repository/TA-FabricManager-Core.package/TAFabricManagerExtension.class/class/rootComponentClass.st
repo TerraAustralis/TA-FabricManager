@@ -1,0 +1,3 @@
+extension defaults
+rootComponentClass
+	^ TAFabricManagerRoot 

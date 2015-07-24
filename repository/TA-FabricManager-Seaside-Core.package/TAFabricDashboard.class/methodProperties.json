@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"children" : "jupiter 6/12/2015 21:11",
+		"initialize" : "jupiter 6/12/2015 20:53",
+		"renderContentOn:" : "jupiter 6/12/2015 20:48",
+		"renderPanelsOn:" : "jupiter 6/12/2015 20:48",
+		"selectedObject:" : "jupiter 6/12/2015 20:48",
+		"updatePanels" : "jupiter 6/12/2015 20:48" } }

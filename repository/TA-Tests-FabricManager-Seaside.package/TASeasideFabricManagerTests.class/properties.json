@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-FabricManager-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASeasideFabricManagerTests",
+	"pools" : [
+		 ],
+	"super" : "TASeasideTests",
+	"type" : "normal" }

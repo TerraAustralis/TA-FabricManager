@@ -1,0 +1,4 @@
+options
+edgeColor
+
+	^ '#ddd'

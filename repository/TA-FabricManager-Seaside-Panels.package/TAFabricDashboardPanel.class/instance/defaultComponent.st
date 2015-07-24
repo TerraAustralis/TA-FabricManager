@@ -1,0 +1,3 @@
+as yet unclassified
+defaultComponent
+	^fabricObject asComponent addValidatedSwitch

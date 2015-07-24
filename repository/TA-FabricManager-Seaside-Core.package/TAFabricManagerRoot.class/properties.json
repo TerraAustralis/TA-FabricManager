@@ -1,0 +1,14 @@
+{
+	"category" : "TA-FabricManager-Seaside-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"displayedComponent" ],
+	"name" : "TAFabricManagerRoot",
+	"pools" : [
+		 ],
+	"super" : "TAAbstractComponent",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"configurationComponent" : "jupiter 6/12/2015 19:07",
+		"dashboardComponent" : "jupiter 6/12/2015 20:50",
+		"displayedComponent" : "jupiter 6/12/2015 19:07",
+		"extensionComponent" : "jupiter 6/13/2015 08:23",
+		"fabricVersionString" : "jupiter 6/13/2015 08:04",
+		"initialize" : "jupiter 6/12/2015 19:07",
+		"renderContentOn:" : "jupiter 6/13/2015 08:01",
+		"renderFooterOn:" : "jupiter 6/13/2015 09:41",
+		"renderHeaderOn:" : "jupiter 6/13/2015 08:00",
+		"renderNavigationOn:" : "jupiter 6/13/2015 07:56",
+		"renderPageFooterOn:" : "jupiter 6/13/2015 09:40",
+		"setDisplayedComponent:" : "jupiter 6/12/2015 19:07",
+		"statusLabel" : "jupiter 6/12/2015 19:07",
+		"updateRoot:" : "jupiter 6/13/2015 08:00" } }

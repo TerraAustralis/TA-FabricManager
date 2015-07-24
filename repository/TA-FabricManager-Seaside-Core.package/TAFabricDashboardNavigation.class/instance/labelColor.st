@@ -1,0 +1,4 @@
+options
+labelColor
+
+	^ '#333'

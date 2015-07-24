@@ -1,0 +1,14 @@
+{
+	"category" : "TA-FabricManager-Seaside-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fabricObject" ],
+	"name" : "TAFabricDashboardPanel",
+	"pools" : [
+		 ],
+	"super" : "TAAbstractComponent",
+	"type" : "normal" }

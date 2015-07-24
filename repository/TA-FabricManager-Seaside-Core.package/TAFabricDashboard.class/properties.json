@@ -1,0 +1,16 @@
+{
+	"category" : "TA-FabricManager-Seaside-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"navigation",
+		"dashPanels",
+		"selectedObject" ],
+	"name" : "TAFabricDashboard",
+	"pools" : [
+		 ],
+	"super" : "TAAbstractComponent",
+	"type" : "normal" }

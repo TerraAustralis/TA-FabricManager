@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"canBeAddedToNode:" : "jupiter 6/13/2015 08:50",
+		"defaultEnabled" : "jupiter 6/12/2015 20:15",
+		"extensionName" : "jupiter 6/12/2015 16:17",
+		"extensionVersion" : "jupiter 6/12/2015 16:15",
+		"rootComponentClass" : "jupiter 6/12/2015 20:33",
+		"uri" : "jupiter 6/12/2015 16:20" },
+	"instance" : {
+		"adminPassword" : "jupiter 6/12/2015 16:11",
+		"adminPassword:" : "jupiter 6/13/2015 08:38",
+		"adminUser" : "jupiter 6/13/2015 08:35",
+		"adminUser:" : "jupiter 6/13/2015 08:35",
+		"configureApplication:" : "jupiter 6/13/2015 09:36",
+		"descriptionAdminPassword" : "jupiter 6/13/2015 08:26",
+		"descriptionAdminUsername" : "jupiter 6/13/2015 08:27",
+		"descriptionEnabled" : "jupiter 6/13/2015 08:27",
+		"initializeModel" : "jupiter 6/12/2015 20:00" } }

@@ -1,0 +1,3 @@
+components
+displayedComponent
+	^displayedComponent

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTerraAustralisFabricManager",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTerraAustralisFabricManager",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
