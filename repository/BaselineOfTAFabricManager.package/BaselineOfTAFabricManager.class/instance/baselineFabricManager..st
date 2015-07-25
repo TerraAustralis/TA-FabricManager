@@ -7,7 +7,7 @@ baselineFabricManager: spec
 				package: 'TA-FabricManager-Announcements';
 				package: 'TA-FabricManager-Commands';
 				package: 'TA-FabricManager-Core'
-					with: [ spec requires: #('TerraAustralisFabric' 'TA-FabricManager-Announcements' 'TA-FabricManager-Commands') ];
+					with: [ spec requires: #('TAFabric' 'TA-FabricManager-Announcements' 'TA-FabricManager-Commands') ];
 				package: 'TA-FabricManager-Seaside-Core' with: [ spec requires: #('TA-FabricManager-Core' 'InfoVis') ];
 				package: 'TA-FabricManager-Seaside-Panels' with: [ spec requires: #('TA-FabricManager-Seaside-Core') ].
 			spec
